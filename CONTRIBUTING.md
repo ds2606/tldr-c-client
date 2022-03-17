@@ -1,5 +1,6 @@
 # Contributing
 
+ds2606 did all dis
 Contributions through [pull requests]
 are most welcome!
 
